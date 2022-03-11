@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AlenPad:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AlenPad_jar</output-path>
+    <root id="archive" name="AlenPad.jar">
+      <element id="module-output" name="AlenPad" />
+    </root>
+  </artifact>
+</component>
